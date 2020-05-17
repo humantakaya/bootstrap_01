@@ -1,0 +1,2 @@
+https://www.r-bloggers.com/confidence-intervals-for-prediction-in-glmms/
+https://qiita.com/saltcooky/items/451b96b3f346cb93a0b4
